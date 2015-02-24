@@ -10,7 +10,7 @@
 
 ![flags](snapshots/flags.png)
 
-2. **[284个一年级常用汉字和语音](ChineseCharacter/284_commonly_used_chinese_characters_and_voice.zip)
+2. **[284个一年级常用汉字和语音](ChineseCharacter/284_commonly_used_chinese_characters_and_voice.zip)**
 
     《幼儿画报》发表统计报告，称在教育审定的12种小学一年级教材中，284个常用字的出现频率高达58.79%，据此推荐家长让孩子优先学习这284个字 早期阅读就是早期的文学作品教育。
 
